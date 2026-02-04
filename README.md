@@ -1,5 +1,5 @@
 # Photo-Booth  
-A fun, modern photo-booth web app built with React & TypeScript 🎉
+A fun, modern photo-booth web app built with React & TypeScript
 
 ## 🚀 Project Overview  
 Photo-Booth is a sleek, responsive web application that lets users take, preview, and share photos (or GIFs) in a “photo-booth” style experience — perfect for events, parties, social sharing, and quick memories.  
